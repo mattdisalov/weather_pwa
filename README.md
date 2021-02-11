@@ -6,7 +6,7 @@ A simple React Weather App with focus on the Progressive Web App aspects. It use
 
 PWAs can be built rather quickly, in regards to a native app that’s pretty difficult to develop and is built in a programming language specific to the platform.  Plus, it offers all the features of native apps, like push notifications, offline support, and much more. Many sites found online are actually a Progressive Web App, such as Twitter, Starbucks, Pinterest and Uber.
 
-
+![Screenshot](pwa-tests.png)
 
 -PWAs can be built with common web technologies
 
